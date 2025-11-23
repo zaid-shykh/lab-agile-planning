@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-**As a ** [role]
+**As a** [role]
 **I need ** [function]
 **So that** [benefit]
 
@@ -16,8 +16,8 @@ assignees: ''
 
 ### Acceptance Criteria
 
-' ' 'gherkin
+` ` `gherkin
 Given [some context]
 When [certain action is taken]
 Then [the outcome of action is observed] 
-' ' '
+` ` `
